@@ -1,0 +1,32 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    height: 100vh;
+    width: 100vw;
+    box-sizing: border-box;
+    display: flex;
+      justify-content: center;
+    align-items: center;
+  
+   
+}
+#first{
+    margin-left:22px;
+}
+#form{
+   
+    background-color: rgb(152, 93, 21);
+    height: 14rem;
+    width: 25rem;
+}
+button{
+    margin-left: 169px;
+    height: 2rem;
+    border-radius: 5px;
+}
+#result{
+
+    margin: 2rem;
+    font-size: 2rem;
+    color: rgb(78, 17, 220);
+}
